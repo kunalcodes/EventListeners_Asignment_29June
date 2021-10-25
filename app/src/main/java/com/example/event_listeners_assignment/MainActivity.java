@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     private TextView mTv_text;
     private EditText mEt_box;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
